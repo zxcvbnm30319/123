@@ -49,3 +49,15 @@ for v in prob.variables():
     print(v.name, "=", v.varValue)
 print('obj=',value(prob.objective))
 ```
+# 123132
+## 132
+### 111 
+#### 4568
+>132
+[GOOGLE 翻譯](https://translate.google.com.tw/?hl=zh-TW)
+
+|123|4506|7800009|
+|---|---:|:---:|
+|5555555555|44444|12313218|
+
+$$\sum_{i=0}^n$$
