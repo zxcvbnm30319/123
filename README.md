@@ -1,4 +1,5 @@
 # 123
+
 安安安
 
 ```py
@@ -62,4 +63,6 @@ print('obj=',value(prob.objective))
 
 
 # 123
-$$\frac{\sin(x)}{x}$$
+$$¥frac{¥sin(x)}{x}$$
+
+$N(b,d)=(b-1)M$
